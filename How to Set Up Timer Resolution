@@ -1,0 +1,8 @@
+1: Download Timer Resolution_build 
+2: Once downloaded, extract the zip file.
+3: Now Left click on timerresolution.exe and open its propery
+4: Now click on Compatibility Tab.
+5: Tick on Run this program as an administrator and Apply the changes.
+6: Now close the window and double-click on the TimerResolution.exe file.
+7: The Timer Resolution tool window will open, displaying the current timer resolution settings.
+8: To adjust the timer resolution, click on the “Maximum” button to set it to the highest value possible. This will ensure the timer resolution is as precise as possible.
